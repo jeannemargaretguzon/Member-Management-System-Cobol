@@ -1,6 +1,6 @@
 # Member-Management-System-Cobol
 
-Polytechnic Univeristy of the Philippines
+Polytechnic University of the Philippines
 Bachelor of Science in Information Technology 2-5
 Member Management System 
 
